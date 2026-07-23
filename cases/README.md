@@ -4,8 +4,10 @@
 
 | 项 | 值 |
 |------|------|
-| 仓库 | `https://github.com/houle-hiro/eval.git` |
-| 分支 | `eval-baseline`（10 个需求已回退到实现前） |
+| 评测代码仓 | `https://github.com/houle-hiro/eval.git` |
+| 评测分支 | `eval-baseline`（10 个需求已回退到实现前） |
+| 答案代码仓 | `https://github.com/openclaw/openclaw.git` |
+| 答案分支 | `v2026.7.1`（10 个需求均已实现） |
 
 ## 用例详情
 
